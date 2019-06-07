@@ -3,3 +3,6 @@ Image inpainting via dictionary learning and sparse representation This project 
 ### Projet réalisé par :
 Kim-Anh Laura Nguyen et Arij Riabi
 ### Promo DAC 2018-2019
+### Enseignants :
+Nicolas Baskiotis <br/>
+Sylvain Lamprier
